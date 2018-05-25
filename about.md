@@ -11,10 +11,42 @@ Hi there! My name is Josh Loehr, and I made this website to showcase myself, my 
  - Projects
  - Academic Overview
 
-If you'd like to get in contact with me, shoot me an email at [joshualoehr@gmail.com](mailto:joshualoehr@gmail.com). Thanks for stopping by!
+If you'd like to get in contact with me, shoot me an email at [joshualoehr@gmail.com](mailto:joshualoehr@gmail.com). 
+
+Thanks for stopping by!
 
 ## Background
 
-I was born in Austin, Texas, where I spent the first 18 years of my life and where my parents and older brother still live. In 2014, upon graduating at Westwood High School, I left home to attend Western Washington University in Bellingham, Washington. Despite never visiting the campus until move in day of freshman year, I instantly fell in love with PNW and the people around me. At WWU I studied mathematics and computer science, completing my double major bachelor's degree in June 2018. During that time I discovered a passion for data science and machine learning, and I intend to continue pursuing these fields for the near and distant future. 
+I was born in Austin, Texas, where I spent the first 18 years of my life and where my parents and older brother still live. In 2014, upon graduating Westwood High School, I left home to attend Western Washington University in Bellingham, Washington. Despite never visiting the campus until move in day of freshman year, I instantly fell in love with PNW and the people around me. At WWU I studied mathematics and computer science, completing my double major bachelor's degree in June 2018. During that time I discovered a passion for data science and machine learning, and I intend to continue pursuing these fields for the near and distant future. 
 
+## Research
 
+## Work Experience
+
+## Projects
+
+## Academic Overview
+
+I graduated from Westwood High School in 2014 with a 4.0 GPA.
+
+In June 2018, I graduated from Western Washington University with two Bachelor's of Science degrees in Computer Science and Mathematics, with a combined GPA of 3.9.
+
+Below are some highlighted elective courses I've taken, along with brief descriptions and projects completed therein. 
+
+<details>
+  <summary><strong> Artificial Intelligence </strong></summary>
+  <div markdown="1">
+  <center> <div markdown="1"> #### CSCI 402 </div> </center>
+**Description:** Introduction to knowledge representation and search. Possible application areas include natural language, perception, learning and expert systems.
+
+**Coursework** 
+* [Virtual Fish - Selection (C#)](https://github.com/joshualoehr/VirtualFishSelection): Modifications to the original [VirtualFish project](https://www.codeproject.com/Articles/1074915/AI-Genetic-Evolution-of-Virtual-Fish) involving refactoring and an assortment of alternative selection strategies for the genetic algorithm.
+* [Neural Network from Scratch (C++)](https://github.com/joshualoehr/neural-network-from-scratch): A very basic artificial neural network, built from scratch in C++ with the [Eigen library](http://eigen.tuxfamily.org).
+* [Grid QLearn (C#)](https://github.com/joshualoehr/Grid-QLearn): Use Reinforcement Learning (Q-Learning) to teach a robot to navigate the WWU computer science department in a gridded environment.
+
+*Grade recieved:* **A** (4.0)
+
+___
+
+  </div>  
+</details>  
