@@ -36,7 +36,11 @@ Below are some highlighted elective courses I've taken, along with brief descrip
 <details>
   <summary><strong> Artificial Intelligence </strong></summary>
   <div markdown="1">
-  <center> <div markdown="1"> #### CSCI 402 </div> </center>
+  <div markdown="1">
+   
+   #### CSCI 402
+   </div>
+   
 **Description:** Introduction to knowledge representation and search. Possible application areas include natural language, perception, learning and expert systems.
 
 **Coursework** 
@@ -55,17 +59,21 @@ ___
 <details>
   <summary><strong> Natural Language Processing </strong></summary>
   <div markdown="1">
-  <center> <div markdown="1"> #### CSCI 404 </div> </center>
-**Description:** Fundamental concepts and ideas in natural language processing (NLP), and current research in the area; algorithms available for the processing of linguistic information and the underlying computational properties of natural languages. Word level, syntactic, and semantic processing from both a linguistic and an algorithmic perspective are considered. The focus is on modern quantitative techniques in NLP: using large corpora, including the web, statistical models for acquisition, disambiguation, and parsing.
+  
+  <center><div markdown="1">
 
-**Coursework** 
-* [N-Gram Language Model (Python)](https://github.com/joshualoehr/ngram-language-model): Python implementation of an N-gram language model with Laplace smoothing and sentence generation.
-* [Various Assignments (Python)](https://github.com/joshualoehr/natural-language-processing): A hodge podge of small assignments from the course, which I should probably clean up and organize into more viewable.
-* Automatic Summarization of Academic Papers (Python): Final project. Attempted to automatically summarize academic papers using an RNN.
+#### CSCI 404
+  </div></center>
+  
+  **Description:** Fundamental concepts and ideas in natural language processing (NLP), and current research in the area; algorithms available for the processing of linguistic information and the underlying computational properties of natural languages. Word level, syntactic, and semantic processing from both a linguistic and an algorithmic perspective are considered. The focus is on modern quantitative techniques in NLP: using large corpora, including the web, statistical models for acquisition, disambiguation, and parsing.
 
-*Grade recieved:* **A** (4.0)
+  **Coursework** 
+  * [N-Gram Language Model (Python)](https://github.com/joshualoehr/ngram-language-model): Python implementation of an N-gram language model with Laplace smoothing and sentence generation.
+  * [Various Assignments (Python)](https://github.com/joshualoehr/natural-language-processing): A hodge podge of small assignments from the course, which I should probably clean up and organize into more viewable.
+  * Automatic Summarization of Academic Papers (Python): Final project. Attempted to automatically summarize academic papers using an RNN.
 
-___
+  *Grade recieved:* **A** (4.0)
 
+  ___
   </div>  
 </details>  
