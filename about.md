@@ -34,12 +34,12 @@ This is a poster I co-presented recently at WWU Scholar's Week describing the ge
     </embed>
 </object>
 
-
-
-Here's a recent paper by my colleagues describing the general research direction:
+And here's a link to the paper itself (note that I am not an author on this publication):
 [Recurrent Neural Network Language Models for Open Vocabulary Event-Level Cyber Anomaly Detection](https://arxiv.org/abs/1712.00557)
 
+My specific area of research within this project has been looking into how variations on the granularity over which logged events are aggregated (day, quarter-day, minute, etc.) affects the accuracies of both our proposed language model and the baselines we compare against. A short paper is pending.
 
+In addition to the research being done, involvement in Dr. Hutchinson's lab also entails participation in a weekly reading group discussion covering recent publications within the field of deep learning. You can find the papers we've covered and more on my [reading list.]()
 
 ___
 
