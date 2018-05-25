@@ -54,7 +54,7 @@ Below are some highlighted elective courses I've taken, along with brief descrip
    
 **Description:** Introduction to knowledge representation and search. Possible application areas include natural language, perception, learning and expert systems.
 
-**Coursework** 
+**Projects** 
 * [Virtual Fish - Selection (C#)](https://github.com/joshualoehr/VirtualFishSelection): Modifications to the original [VirtualFish project](https://www.codeproject.com/Articles/1074915/AI-Genetic-Evolution-of-Virtual-Fish) involving refactoring and an assortment of alternative selection strategies for the genetic algorithm.
 * [Neural Network from Scratch (C++)](https://github.com/joshualoehr/neural-network-from-scratch): A very basic artificial neural network, built from scratch in C++ with the [Eigen library](http://eigen.tuxfamily.org).
 * [Grid QLearn (C#)](https://github.com/joshualoehr/Grid-QLearn): Use Reinforcement Learning (Q-Learning) to teach a robot to navigate the WWU computer science department in a gridded environment.
@@ -78,9 +78,9 @@ ___
   
   **Description:** Fundamental concepts and ideas in natural language processing (NLP), and current research in the area; algorithms available for the processing of linguistic information and the underlying computational properties of natural languages. Word level, syntactic, and semantic processing from both a linguistic and an algorithmic perspective are considered. The focus is on modern quantitative techniques in NLP: using large corpora, including the web, statistical models for acquisition, disambiguation, and parsing.
 
-  **Coursework** 
+  **Projects** 
   * [N-Gram Language Model (Python)](https://github.com/joshualoehr/ngram-language-model): Python implementation of an N-gram language model with Laplace smoothing and sentence generation.
-  * [Various Assignments (Python)](https://github.com/joshualoehr/natural-language-processing): A hodge podge of small assignments from the course, which I should probably clean up and organize into more viewable.
+  * [Various Assignments (Python)](https://github.com/joshualoehr/natural-language-processing): A hodge podge of small assignments from the course, which I should probably clean up and organize into a more viewable form.
   * Automatic Summarization of Academic Papers (Python): Final project. Attempted to automatically summarize academic papers using an RNN.
 
   *Grade recieved:* **A** (4.0)
@@ -101,12 +101,48 @@ ___
   
   **Description:** Covers important machine learning research areas such as artificial neural nets, Bayesian learning, data mining, decision tree learning, evolutionary computation, reinforcement learning, version space learning, rough sets, and computational learning theory. Algorithms from these research areas will be analyzed. Each student will select one of the learned algorithms and apply it to the term project.
 
-  **Coursework** 
+  **Projects** 
   * [Linear Regression (Java)](https://github.com/joshualoehr/linear-regression): General purpose linear regression optimizer implemented from scratch with Java. Options for both gradient descent and analytical solutions.
   * [Tensorflow DNN (Python)](https://github.com/joshualoehr/tensorflow-dnn/blob/master/prog2.py): A general purpose deep neural network implemented in Tensorflow. Uses purely the base Tensorflow library - no 3rd party additions or the contrib package.
   * Final Project (Python): TBA
 
   *Grade recieved:* 
+
+  ___
+  </div>  
+</details>  
+
+
+<details>
+  <summary><strong> Linear & Nonlinear Optimization </strong></summary>
+  <div markdown="1">
+  
+  <center><div markdown="1">
+
+#### M/CS 335/435
+  </div></center>
+  
+  **Description:** (Two courses) -- (M/CS 335) The optimization of linear functions subject to linear constraints. Linear programming, duality theory, sensitivity analysis, applications. (M/CS 435) Nonlinear optimization with emphasis on basic theory (including Lagrange multipliers and the Kuhn-Tucker conditions), algorithms for numerical solution of problems, and applications. Introductory dynamic programming, with emphasis on applications and algorithms.
+
+  *Grade recieved:* **A** (4.0) / **B+** (3.3)
+
+  ___
+  </div>  
+</details>  
+
+
+<details>
+  <summary><strong> Numerical Computation & Analysis </strong></summary>
+  <div markdown="1">
+  
+  <center><div markdown="1">
+
+#### M/CS 375/475
+  </div></center>
+  
+  **Description:** (Two courses) -- (M/CS 375) Computer arithmetic, solution of nonlinear equations and optimization in a single variable; matrix factorization; matrix iterative techniques. (M/CS 475) Polynomial interpolation including splines, orthogonal systems of functions and least squares approximation; numerical differentiation and integration; solution of systems of nonlinear equations and unconstrained optimization.
+
+  *Grade recieved:* **A** (4.0) / **A** (4.0)
 
   ___
   </div>  
