@@ -34,8 +34,9 @@ This is a poster I co-presented in May 2018 at WWU Scholar's Week describing the
     </embed>
 </object>
 
-And here's a link to the paper itself (note that I am not an author on this publication):
-[Recurrent Neural Network Language Models for Open Vocabulary Event-Level Cyber Anomaly Detection](https://arxiv.org/abs/1712.00557)
+And here's a link to the paper itself (note that I am not an author on this publication):\
+[Recurrent Neural Network Language Models for Open Vocabulary Event-Level Cyber Anomaly Detection](https://arxiv.org/abs/1712.00557)\
+Our code is also open source and available [here.](https://github.com/pnnl/safekit)
 
 My specific area of research within this project has been exploring how variations in the granularity over which logged events are aggregated (day, quarter-day, minute, etc.) affect the accuracies of both our proposed language model and the baselines we compare against. A short paper is pending.
 
