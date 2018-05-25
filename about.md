@@ -5,11 +5,11 @@ title: About
 
 Hi there! My name is Josh Loehr, and I made this website to showcase myself, my work, and my interests. Consider it like the ultra deluxe extended version of my résumé (if you just want the trim and slim version, find it [here]()). Here's what you can find on this page:
 
- - Background
- - Research
- - Work Experience
- - Projects
- - Academic Overview
+ - [Background](https://joshualoehr.github.io/about#background)
+ - [Research](https://joshualoehr.github.io/about#research)
+ - [Work Experience](https://joshualoehr.github.io/about#work-experience)
+ - [Projects](https://joshualoehr.github.io/about#projects)
+ - [Academic Overview](https://joshualoehr.github.io/about#academic-overview)
 
 If you'd like to get in contact with me, shoot me an email at [joshualoehr@gmail.com](mailto:joshualoehr@gmail.com). 
 
@@ -41,7 +41,7 @@ I graduated from Westwood High School in 2014 with a 4.0 GPA.
 
 In June 2018, I graduated from Western Washington University with two Bachelor's of Science degrees in Computer Science and Mathematics, with a combined GPA of 3.9.
 
-Below are some highlighted elective courses I've taken, along with brief descriptions and projects completed therein. 
+Below are some highlighted elective courses I've taken, along with brief descriptions and projects completed therein. You can find more in depth detail about these projects, as well as others, in the [Projects](https://joshualoehr.github.io/about#projects) section above.
 
 <details>
   <summary><strong> Artificial Intelligence </strong></summary>
