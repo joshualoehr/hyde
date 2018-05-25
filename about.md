@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hi there! My name is Josh Loehr, and I made this website to showcase myself, my work, and my interests. Consider it like the ultra deluxe extended version of my résumé (if you just want the trim and slim version, find it [here]()). Here's what you can find on this page:
+Hi there! My name is Josh Loehr, and I made this website to showcase myself, my work, and my interests. Consider it like the ultra deluxe extended version of my résumé (if you just want the trim and slim version, find it [here](https://joshualoehr.github.io/public/Joshua_Loehr_Resume_2018.pdf)). Here's what you can find on this page:
 
  - [Background](https://joshualoehr.github.io/about#background)
  - [Research](https://joshualoehr.github.io/about#research)
@@ -56,7 +56,7 @@ Below are some highlighted elective courses I've taken, along with brief descrip
 
 **Projects** 
 * [Virtual Fish - Selection (C#)](https://github.com/joshualoehr/VirtualFishSelection): Modifications to the original [VirtualFish project](https://www.codeproject.com/Articles/1074915/AI-Genetic-Evolution-of-Virtual-Fish) involving refactoring and an assortment of alternative selection strategies for the genetic algorithm.
-* [Neural Network from Scratch (C++)](https://github.com/joshualoehr/neural-network-from-scratch): A very basic artificial neural network, built from scratch in C++ with the [Eigen library](http://eigen.tuxfamily.org).
+* [Neural Network from Scratch (C++)](https://github.com/joshualoehr/neural-network-from-scratch): A very basic artificial neural network, built from scratch in C++ with the [Eigen library](http://eigen.tuxfamily.org). Trained to classify mushrooms as either poisonous or edible based on 23 nominal characteristics with >99% test accuracy.
 * [Grid QLearn (C#)](https://github.com/joshualoehr/Grid-QLearn): Use Reinforcement Learning (Q-Learning) to teach a robot to navigate the WWU computer science department in a gridded environment.
 
 *Grade recieved:* **A** (4.0)
