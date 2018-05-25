@@ -55,7 +55,7 @@ ___
 
 I graduated from Westwood High School in 2014 with a 4.0 GPA.
 
-In June 2018, I graduated from Western Washington University with two Bachelor's of Science degrees in Computer Science and Mathematics, with a combined GPA of 3.9.
+In June 2018, I graduated from Western Washington University with two Bachelors of Science degrees in Computer Science and Mathematics, with a combined 4.0 GPA.
 
 Below are some highlighted elective courses I've taken, along with brief descriptions and projects completed therein. You can find more in depth detail about these projects, as well as others, in the [Projects](https://joshualoehr.github.io/about#projects) section above.
 
