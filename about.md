@@ -36,10 +36,11 @@ Below are some highlighted elective courses I've taken, along with brief descrip
 <details>
   <summary><strong> Artificial Intelligence </strong></summary>
   <div markdown="1">
-  <div markdown="1">
-   
-   #### CSCI 402
-   </div>
+  
+  <center><div markdown="1">
+
+#### CSCI 402
+  </div></center>
    
 **Description:** Introduction to knowledge representation and search. Possible application areas include natural language, perception, learning and expert systems.
 
