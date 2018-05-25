@@ -27,7 +27,7 @@ ___
 
 During my senior year at WWU I joined [Dr. Brian Hutchinson's](https://facultyweb.cs.wwu.edu/~hutchib2/) deep learning research group, where I worked on using RNNs for anomalous network activity and intrusion detection. This is done by using an RNN language model to learn the "grammar" of network log lines, leveraging the discrepancy between what the model predicts will be the next log line vs. what the next log line actually is to determine an anomaly score. This work is done in collaboration with researchers at [Pacific Northwest National Laboratory.](https://www.pnnl.gov/)
 
-This is a poster I co-presented recently at WWU Scholar's Week describing the general research direction:
+This is a poster I co-presented in May 2018 at WWU Scholar's Week describing the general research direction:
 <object data="/public/language-modeling-anomalous.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/public/language-modeling-anomalous.pdf">
         This browser does not support PDFs. Please download the PDF to view it: <a href="/public/language-modeling-anomalous.pdf">Download PDF</a>.</p>
