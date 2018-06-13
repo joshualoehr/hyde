@@ -57,6 +57,10 @@ These are the papers I read during the 2017-2018 school year as part of the Hutc
 
 ## NLP
 
+#### General NLP
+
+- [Universal Language Model Fine-tuning for Text Classification (Howard and Ruder, 2018)](https://arxiv.org/pdf/1801.06146.pdf) 
+
 #### Automatic Sarcasm Detection
 
 - [ICWSM - A Great Catchy Name: Semi-Supervised Recognition of Sarcastic Sentences in Online Produce Reviews (Tsur et al., 2010)](http://kanagawa.lti.cs.cmu.edu/11719/sites/default/files/Tsur-Sarcasm.pdf)
@@ -83,6 +87,18 @@ These are the papers I read during the 2017-2018 school year as part of the Hutc
 
 - [Expect the Unexpected: Harnessing Sentence Completion for Sarcasm Detection (Joshi et al., 2017)](https://arxiv.org/pdf/1707.06151.pdf)
 
+#### Attention for NLP
+
+- [A Convolutional Attention Model for Text Classification (Du et al., 2017)](http://tcci.ccf.org.cn/conference/2017/papers/1057.pdf)
+
+- [ABCNN: Attention-Based CNN for Modeling Sentence Pairs (Yin et al., 2016)](http://www.aclweb.org/anthology/Q16-1019)
+
+- [A Structured Self-Attentive Sentence Embedding (Lin et al., 2017)](https://arxiv.org/pdf/1703.03130.pdf)
+
 ## Miscellaneous
 
 ## TODO: Read These
+
+- [Hierarchical Neural Story Generation (Fan et al., 2018)](https://arxiv.org/pdf/1805.04833.pdf)
+
+- [Neural Machine Translation of Rare Words with Subword Units (Sennrich et al., 2016)](https://arxiv.org/pdf/1508.07909.pdf)
