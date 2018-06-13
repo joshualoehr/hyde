@@ -55,6 +55,34 @@ These are the papers I read during the 2017-2018 school year as part of the Hutc
  
  - [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://arxiv.org/pdf/1805.06605.pdf)
 
+## NLP
+
+#### Automatic Sarcasm Detection
+
+- [ICWSM - A Great Catchy Name: Semi-Supervised Recognition of Sarcastic Sentences in Online Produce Reviews (Tsur et al., 2010)](http://kanagawa.lti.cs.cmu.edu/11719/sites/default/files/Tsur-Sarcasm.pdf)
+
+- [Identifying Sarcasm in Twitter: A Closer Look (Gonzalez-Ibanez et al., 2011)](http://www.aclweb.org/anthology/P11-2102?CFID=24023237&CFTOKEN=4b3ce3611271a772-EB005048-FE47-3BDC-31F637B5AA62C4D3)
+
+- [Sarcasm as Contrast Between a Positive Sentiment and Negative Situation (Riloff et al., 2013)](https://www.cs.utah.edu/~riloff/pdfs/official-emnlp13-sarcasm.pdf)
+
+- [Harnessing Context Incongruity for Sarcasm Detection (Joshi et al., 2015)](http://www.aclweb.org/anthology/P15-2124)
+
+- [Sarcasm Detection on Twitter: A Behavioral Modeling Approach (Rajadesingan et al., 2015)](https://dl.acm.org/citation.cfm?id=2685316)
+
+- [Contextualized Sarcasm Detection on Twitter (Bamman and Smith, 2015)](https://homes.cs.washington.edu/~nasmith/papers/bamman+smith.icwsm15.pdf)
+
+- [Automatic Sarcasm Detection: A Survey (Joshi et al., 2016)](https://arxiv.org/pdf/1602.03426.pdf)
+
+- [Modelling Context with User Embeddings for Sarcasm Detection in Social Media (Amir et al., 2016)](https://arxiv.org/pdf/1607.00976.pdf)
+
+- [Fracking Sarcasm using Neural Network (Ghosh and Veale, 2016)](http://www.aclweb.org/anthology/W16-0425)
+
+- [A Deeper Look into Sarcastic Tweets using Deep Convolutional Neural Networks (Poria et al., 2017)](https://arxiv.org/pdf/1610.08815.pdf)
+
+- [Tweet Sarcasm Detection Using Deep Neural Network (Zhang et al., 2017)](http://www.aclweb.org/anthology/C16-1231)
+
+- [Expect the Unexpected: Harnessing Sentence Completion for Sarcasm Detection (Joshi et al., 2017)](https://arxiv.org/pdf/1707.06151.pdf)
+
 ## Miscellaneous
 
 ## TODO: Read These
