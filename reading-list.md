@@ -61,6 +61,8 @@ These are the papers I read during the 2017-2018 school year as part of the Hutc
 
 - [Universal Language Model Fine-tuning for Text Classification (Howard and Ruder, 2018)](https://arxiv.org/pdf/1801.06146.pdf) 
 
+- [Generating Topical Poetry (Ghazvininejad et al., 2018)](https://homes.cs.washington.edu/~yejin/Papers/emnlp16_sonnet.pdf)
+
 #### Automatic Sarcasm Detection
 
 - [ICWSM - A Great Catchy Name: Semi-Supervised Recognition of Sarcastic Sentences in Online Produce Reviews (Tsur et al., 2010)](http://kanagawa.lti.cs.cmu.edu/11719/sites/default/files/Tsur-Sarcasm.pdf)
