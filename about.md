@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hi there! My name is Josh Loehr, and I made this website to showcase myself, my work, and my interests. Consider it like the ultra deluxe extended version of my résumé (if you just want the trim and slim version, find it [here](https://joshualoehr.github.io/public/Joshua_Loehr_Resume_2018.pdf)). Here's what you can find on this page:
+Hi there! My name is Josh Loehr, and I made this website to showcase myself, my work, and my interests. Consider it like the ultra deluxe version of my résumé (if you just want the trim and slim version, you can find it on the sidebar). Here's what you can find on this page:
 
  - [Background](https://joshualoehr.github.io/about#background)
  - [Research](https://joshualoehr.github.io/about#research)
@@ -12,8 +12,6 @@ Hi there! My name is Josh Loehr, and I made this website to showcase myself, my 
  - [Academic Overview](https://joshualoehr.github.io/about#academic-overview)
 
 If you'd like to get in contact with me, shoot me an email at [joshualoehr@gmail.com](mailto:joshualoehr@gmail.com). 
-
-Thanks for stopping by!
 
 ___
 
@@ -37,7 +35,7 @@ This is a poster I co-presented in May 2018 at WWU Scholar's Week describing the
 And here's a link to the paper itself (note that I am not an author on this publication): [Recurrent Neural Network Language Models for Open Vocabulary Event-Level Cyber Anomaly Detection](https://arxiv.org/abs/1712.00557)  
 Our code is also open source and available [here.](https://github.com/pnnl/safekit)
 
-My specific area of research within this project has been exploring how variations in the granularity over which logged events are aggregated (day, quarter-day, minute, etc.) affect the accuracies of both our proposed language model and the baselines we compare against. A short paper is pending.
+My specific area of research within this project was exploring how variations in the granularity over which logged events are aggregated (day, quarter-day, minute, etc.) affected the accuracies of both our proposed language model and the baselines we compared against.
 
 In addition to the research being done, involvement in Dr. Hutchinson's lab also entailed participation in a weekly reading group discussion covering recent publications within the field of deep learning. You can find the papers we covered and more on my [reading list.](/reading-list/)
 
@@ -45,7 +43,9 @@ ___
 
 ## Work Experience
 
-<details>
+TODO
+
+<details style="display: none;">
   <summary><strong> Dropdown Title </strong></summary>
   <div markdown="1">
   
@@ -64,13 +64,30 @@ ___
 
 ## Projects
 
+TODO
+
+<details style="display: none;">
+  <summary><strong> Dropdown Title </strong></summary>
+  <div markdown="1">
+  
+  <center><div markdown="1">
+
+#### Hidden Title
+  </div></center>
+
+Content
+___
+
+  </div>  
+</details>  
+
 ___
 
 ## Academic Overview
 
 I graduated from Westwood High School in 2014 with a 4.0 GPA.
 
-In June 2018, I graduated from Western Washington University with two Bachelors of Science degrees in Computer Science and Mathematics, with a combined 3.88 GPA.
+In June 2018, I graduated from Western Washington University with two Bachelors of Science degrees in Computer Science and Mathematics, with a combined 3.89 GPA and Cum Laude honors.
 
 Below are some highlighted elective courses I've taken, along with brief descriptions and projects completed therein. You can find more in depth detail about these projects, as well as others, in the [Projects](https://joshualoehr.github.io/about#projects) section above.
 
