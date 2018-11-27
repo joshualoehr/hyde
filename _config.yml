@@ -17,3 +17,6 @@ paginate:         5
 # Custom vars
 github:
   repo:           https://github.com/joshualoehr
+resume:
+  current:        Joshua_Loehr_Resume_11-26-2018.pdf
+  old1:           Joshua_Loehr_Resume_2018.pdf
