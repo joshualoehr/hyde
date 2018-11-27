@@ -152,9 +152,8 @@ ___
   **Projects** 
   * [Linear Regression (Java)](https://github.com/joshualoehr/linear-regression): General purpose linear regression optimizer implemented from scratch with Java. Options for both gradient descent and analytical solutions.
   * [Tensorflow DNN (Python)](https://github.com/joshualoehr/tensorflow-dnn/blob/master/prog2.py): A general purpose deep neural network implemented in Tensorflow. Uses purely the base Tensorflow library - no 3rd party additions or the contrib package.
-  * Final Project (Python): TBA
 
-  *Grade recieved:* 
+  *Grade recieved:* **A** (4.0)
 
   ___
   </div>  
